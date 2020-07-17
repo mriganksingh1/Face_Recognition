@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Face Recognition Mulltiple Faces</string>
+    <string name="recognize">Recognize</string>
+    <string name="training">Training</string>
+    <string name="detection">Detection</string>
+    <string name="permission_warning">Warning</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="who_are_you_going_to_train">who are you going to train?</string>
+    <string name="please_enter_the_same_name_for_the_same_person_everytime_you_train_that_person">Please enter the same name for the same person every time you want to train that person</string>
+    <string name="next">Train</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="capture">Capture</string>
+    <string name="capturing">Capturing</string>
+    <string name="reset">Reset</string>
+    <string name="unknown">Unknown</string>
+</resources>
